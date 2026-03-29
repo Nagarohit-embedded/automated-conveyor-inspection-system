@@ -59,6 +59,8 @@ Condition:
 
 ## Project Demo
 
+### Conveyor System Setup
+![Conveyor System](Automated Conveyer.jpeg)
 
 
 ## Applications
